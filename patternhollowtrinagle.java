@@ -26,7 +26,7 @@ public class patternhollowtrinagle {
                 }
                 System.out.println();
             }
-           
+            
 
         }
         
